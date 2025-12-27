@@ -133,9 +133,9 @@ Visit `http://localhost:3000` after starting both servers.
 - Historical risk tracking and reporting
 - Community collaboration features
 
-## Microsoft Imagine Cup 2025
+## Microsoft Imagine Cup 2026
 
-Built for the Microsoft Imagine Cup 2025 - demonstrating how AI can help vulnerable communities prepare for and respond to infrastructure challenges.
+Built for the Microsoft Imagine Cup 2026 - demonstrating how AI can help vulnerable communities prepare for and respond to infrastructure challenges.
 
 ## License
 

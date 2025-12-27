@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rural_north",
+    "name": "Rural North",
+    "lat": 40.7580,
+    "lng": -73.9855,
+    "population": 1200,
+    "vulnerability_score": 8.5,
+    "infrastructure_age": 45
+  },
+  {
+    "id": "suburban_east",
+    "name": "Suburban East",
+    "lat": 40.7489,
+    "lng": -73.9680,
+    "population": 3500,
+    "vulnerability_score": 6.2,
+    "infrastructure_age": 30
+  },
+  {
+    "id": "downtown",
+    "name": "Downtown",
+    "lat": 40.7614,
+    "lng": -73.9776,
+    "population": 8200,
+    "vulnerability_score": 4.1,
+    "infrastructure_age": 20
+  },
+  {
+    "id": "coastal_south",
+    "name": "Coastal South",
+    "lat": 40.7380,
+    "lng": -73.9920,
+    "population": 2100,
+    "vulnerability_score": 7.8,
+    "infrastructure_age": 35
+  },
+  {
+    "id": "mountain_west",
+    "name": "Mountain West",
+    "lat": 40.7690,
+    "lng": -74.0010,
+    "population": 950,
+    "vulnerability_score": 9.1,
+    "infrastructure_age": 52
+  }
+]
